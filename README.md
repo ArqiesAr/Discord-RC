@@ -1,5 +1,5 @@
 # Remote Control Via Discord
-A remote control application/bot that uses webhooks and a discord bot to control the computer running to code
+A remote control application/bot that uses webhooks and a discord bot to control the computer running the code
 
 # 🪶Features  
 1️⃣Automaticlly Copies itself to autostart   
@@ -14,3 +14,6 @@ A remote control application/bot that uses webhooks and a discord bot to control
 # 😎Optional    
 1️⃣Convert the file to .exe, or another executeable using Pyinstaller.    
 NOTE: Make sure to compile pyinstaller on your system. All pyinstaller files are flagged as virus otherwise.    
+
+
+ONLY FOR USE ON YOUR OWN SYSTEM

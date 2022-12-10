@@ -16,4 +16,4 @@ A remote control application/bot that uses webhooks and a discord bot to control
 NOTE: Make sure to compile pyinstaller on your system. All pyinstaller files are flagged as virus otherwise.    
 
 
-#ONLY FOR USE ON YOUR OWN SYSTEM
+# ONLY FOR USE ON YOUR OWN SYSTEM  

@@ -6,8 +6,8 @@ import discord, random,shutil, sys
 from discord_webhook import DiscordWebhook
 from discord.ext import commands
 import time
-uploadedfilesWEBHOOK="https://discordapp.com/api/webhooks/1040542515314577408/YW5NoSPBayV9JYMJeRuSU0psqgpP5YKeSkSUz-6nfL8Z05ARFPq4cDWMYKUVAA69Lqcl"
-controlBotToken="MTA0MDUyMDA5MTA5MzE3MjI2NA.GDMojF.NvCcAKn7oJdhtF1a1wd1wdfN8FqoZfiw0Qt9kM"
+uploadedfilesWEBHOOK=""
+controlBotToken=""
 
 
 

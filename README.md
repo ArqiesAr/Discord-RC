@@ -1,5 +1,5 @@
 # Remote Control Via Discord
-A remote control application/bot that uses webhooks and a discord bot to control the computer running the code
+A remote control application/bot that uses webhooks and a discord bot to control the computer running the code      
 Tutorial - https://www.youtube.com/watch?v=VQK_wKtwSkA
 
 
